@@ -37,17 +37,17 @@ cd [local repository]
 ##### Delete the node_modules folder and any 'lock' files such as yarn.lock or package-lock.json if present.
 
 ```bash
-npm install
+npm install --force
 npm start
 ```
 ## Usage
 ```python
-Employee Directory Home page
+Employee Directory Home page : Link to employee's directory page
 ```
 <img width="1439" alt="Screenshot 2021-07-21 at 8 02 41 PM" src="https://user-images.githubusercontent.com/61482989/126574465-58a49788-c9e0-439b-933e-b40e6155d076.png">
 
 ```python
-Employee Directory Listing page
+Employee Directory Listing page : Display list of all employees with information in Table
 ```
 <img width="1440" alt="Screenshot 2021-07-21 at 8 04 01 PM" src="https://user-images.githubusercontent.com/61482989/126574531-8e4f9875-465a-47f9-b065-1fc9715d43e3.png">
 
